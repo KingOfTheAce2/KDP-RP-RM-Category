@@ -81,35 +81,45 @@ This research analyzes the optimal Amazon KDP categories for a transfer pricing 
 - **Secondary**: Accounting > International (excellent relevance, 3-8 sales/day)
 - **Tertiary**: Corporate Taxation (highest relevance, 5-8 sales/day)
 
-### 2. Pricing Strategy for Minibook (19,175 words) ⭐ **REVISED**
+### 2. Pricing Strategy for Professional Minibook (19,175 words) ⭐ **UPDATED FOR NEW ROYALTY STRUCTURE**
 
-#### Launch Strategy (First 2 weeks)
-- **eBook**: $0.99 (maximum sales velocity for bestseller achievement)
-- **Paperback**: $7.99 (competitive for 60-80 page book)
+#### Critical Update: Amazon Royalty Changes (June 2025)
+- **Paperback royalty**: 50% for under $9.99, 60% for $9.99+
+- **Must price at $9.99+ to get 60% royalty tier**
 
-#### Regular Pricing (Post-bestseller)
-- **eBook**: $2.99-$3.99 (maintains 70% royalty, appropriate for minibook)
-- **Paperback**: $8.99-$9.99 (professional pricing for shorter format)
+#### Recommended Launch Strategy
+- **eBook**: $3.99 (70% royalty = $2.79 per sale)
+- **Paperback**: $9.99 (60% royalty threshold = $3.89 per sale after printing)
 
-#### Premium Strategy (After establishing authority)
-- **eBook**: $4.99 (maximum for specialized content)
-- **Paperback**: $12.99 (premium positioning)
+#### Professional Strategy (Month 2+)
+- **eBook**: $4.99 (70% royalty = $3.49 per sale)
+- **Paperback**: $12.99 (60% royalty = $5.69 per sale after printing)
 
-### 3. Launch Strategy for Bestseller Badge ⭐ **ENHANCED**
+#### Revenue Comparison (per sale)
+- **Threshold strategy**: $2.79 eBook + $3.89 paperback = **$6.68 total**
+- **Professional strategy**: $3.49 eBook + $5.69 paperback = **$8.18 total**
+- **Old $0.99 strategy**: $0.35 eBook + $2.69 paperback = $3.04 total
+
+#### Why $9.99 Minimum for Paperback
+- Under $9.99: 50% royalty = $2.75 per book (after $3.50 printing)
+- At $9.99+: 60% royalty = $3.89+ per book
+- **$1.14 more profit per book** by hitting the threshold
+
+### 3. Launch Strategy for Bestseller Badge ⭐ **UPDATED FOR NEW ROYALTIES**
 1. **Pre-launch**: Build email list of tax professionals
-2. **Launch at $0.99**: Use aggressive pricing for initial sales velocity
-3. **Use Kindle Countdown Deal**: Maintain 70% royalty during promotion
-4. **Monitor BSR hourly**: Track for optimal timing to raise prices
-5. **Achieve #1 status**: Leverage temporary bestseller badge for credibility
-6. **Raise prices**: Move to $2.99 ebook/$8.99 paperback after bestseller achievement
+2. **Launch at $3.99/$9.99**: Threshold pricing for optimal royalties (5-8 daily sales needed)
+3. **Alternative**: Use Kindle Countdown Deal from $4.99 to $2.99 (maintains 70% royalty)
+4. **Monitor BSR hourly**: Track category rankings for optimization
+5. **Achieve top 10 status**: Leverage bestseller positioning for credibility
+6. **Price increase**: Move to $4.99/$12.99 after establishing market position
 7. **Category optimization**: Adjust within 72-hour window if needed
 
-### 4. Temporary Pricing Strategy Benefits
-- **Removes price resistance** for professional "test purchase"
-- **Maximizes sales velocity** needed for bestseller status
-- **Creates momentum** - bestseller badge provides lasting credibility
-- **Justified by minibook format** - lower price acceptable for shorter content
-- **Professional buyers** still purchase for expertise value, not just length
+### 4. Professional Pricing Strategy Benefits
+- **Respects content value** - 20k words of specialized expertise deserves professional pricing
+- **Maximizes royalty revenue** - 70% tier generates 2.8x more revenue than 35% tier
+- **Maintains credibility** - professional pricing signals quality and authority
+- **Sustainable bestseller approach** - only need 5-8 daily sales in target categories
+- **Professional buyers** value expertise over length - willing to pay for specialized knowledge
 
 ### 4. Content Positioning
 - **Title keywords**: Include "International," "Multinational," "Corporate Tax"
@@ -195,16 +205,16 @@ The optimal strategy for achieving Amazon bestseller status with a 19,175-word t
 2. **Accounting > International** (secondary - perfect audience match)
 3. **Corporate Taxation** (tertiary - highest relevance)
 
-**Launch Strategy**: Start at $0.99 ebook/$7.99 paperback to achieve 8-15 daily sales, then raise to $2.99/$8.99 after achieving bestseller status.
+**Launch Strategy**: Start at $3.99 ebook/$9.99 paperback to achieve optimal royalty rates while maintaining bestseller competitiveness.
 
 The key success factors are:
-1. **Aggressive launch pricing** to maximize initial sales velocity
+1. **Professional pricing from launch** to maximize royalty revenue and maintain credibility
 2. **Strategic category selection** in low-competition accounting/international niches
 3. **Minibook positioning** as concise, actionable content for busy professionals
-4. **Price optimization timeline** - temporary low pricing followed by professional rates
-5. **Bestseller badge leverage** for long-term credibility and higher pricing power
+4. **70% royalty optimization** - sustainable pricing that generates 2.8x more revenue
+5. **Bestseller achievement** with professional pricing in specialized categories
 
-**Expected Results**: Bestseller achievement within 14 days with as few as 3-8 daily sales in target categories, followed by sustainable revenue at higher price points.
+**Expected Results**: Bestseller achievement within 14-30 days with 5-8 daily sales in target categories, generating $6.68 per sale ($668 per 100 sales) vs. $3.04 with old strategy (**2.2x increase**).
 
 ---
 
